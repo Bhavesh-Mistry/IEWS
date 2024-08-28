@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/team-off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/team-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="people" opacity="0.8" transform="translate(1.000000, 4.000000)" fill="#FBFBFB" stroke="#FBFBFB" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M0,8 C0,6.5 2,6.5 3,5.5 C3.5,5 2,5 2,2.5 C2,0.8335 2.6665,0 4,0 C5.3335,0 6,0.8335 6,2.5 C6,5 4.5,5 5,5.5 C6,6.5 8,6.5 8,8 L0,8 Z M8,8 C8.21939578,7.92048505 6.91169994,6.8909276 7.33333333,6.66666667 C7.54236044,6.55548806 8.59714828,6.03348243 8.66666667,6 C9.033781,5.8231852 9.3893716,5.77729507 9.66666667,5.5 C10.1666667,5 8.66666667,5 8.66666667,2.5 C8.66666667,0.8335 9.33316667,0 10.6666667,0 C12.0001667,0 12.6666667,0.8335 12.6666667,2.5 C12.6666667,5 11.1666667,5 11.6666667,5.5 C12.6666667,6.5 14.5,6.5 14.5,8 L8,8 Z" id="Shape"></path>
+        </g>
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+    </g>
+</svg>

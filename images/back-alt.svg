@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/back-alt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/back-alt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="back-alt" transform="translate(2.000000, 3.000000)" fill="#7083A4" stroke="#7083A4" stroke-linecap="round" stroke-linejoin="round">
+            <polygon id="Path" transform="translate(6.000000, 5.000000) rotate(90.000000) translate(-6.000000, -5.000000) " points="1 5 11 -1 11 11"></polygon>
+        </g>
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+    </g>
+</svg>

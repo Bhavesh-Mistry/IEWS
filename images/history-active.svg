@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/history-active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/history-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="history---active" transform="translate(1.000000, 2.000000)" stroke="#22A7F0" stroke-linecap="round" stroke-linejoin="round">
+            <polyline id="Path" points="0 6.22222222 1.76944419 8.03703678 3.53888838 6.22222222"></polyline>
+            <polyline id="Path" points="7 3.88888889 7 6.96759243 8.80104157 8.81481456"></polyline>
+            <path d="M7.62222222,12.4444444 C10.9727497,12.4444444 13.6888889,9.65866063 13.6888889,6.22222222 C13.6888889,2.78578378 10.9727497,0 7.62222222,0 C4.27169474,0 1.55555556,2.78578378 1.55555556,6.22222222 C1.55555556,6.20514914 1.55555556,6.43560179 1.55555556,6.91358025" id="Path"></path>
+        </g>
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+    </g>
+</svg>

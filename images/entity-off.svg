@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/entity-off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/entity-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" opacity="0.8" transform="translate(2.000000, 2.000000)" stroke-linecap="round" stroke-linejoin="round">
+            <polygon id="Path" stroke="#FBFBFB" fill="#FBFBFB" points="5.57142857 0 11.1428571 3.0952381 11.1428571 9.28571429 5.57142857 12.3809524 0 9.28571429 0 3.0952381"></polygon>
+            <polyline id="Path" stroke="#232F3E" points="0 3.0952381 5.57142857 6.19047619 11.1428571 3.0952381"></polyline>
+            <path d="M5.57142857,6.19047619 L5.57142857,12.3809524" id="Path" stroke="#232F3E"></path>
+        </g>
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+    </g>
+</svg>

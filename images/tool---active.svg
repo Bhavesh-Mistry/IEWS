@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/tool - active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/tool---active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.72330244,9.16336212 C6.3868309,9.26534405 6.02986391,9.32017902 5.66008951,9.32017902 C3.63867789,9.32017902 2,7.68150113 2,5.66008951 C2,5.09503692 2.12804476,4.55989078 2.35670133,4.08208407 L5.0194198,6.74480254 L6.74480254,5.0194198 L4.08208407,2.35670133 C4.55989078,2.12804476 5.09503692,2 5.66008951,2 C7.68150113,2 9.32017902,3.63867789 9.32017902,5.66008951 C9.32017902,6.19715135 9.20450586,6.70719627 8.99671428,7.16666952 L13.3376541,11.5076093 C13.8141054,11.9840606 13.8141054,12.7565408 13.3376541,13.232992 L12.9279846,13.6426615 C12.4515333,14.1191128 11.6790532,14.1191128 11.2026019,13.6426615 L6.72330244,9.16336212 Z" id="Path" stroke="#22A7F0" stroke-linecap="round" stroke-linejoin="round"></path>
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+    </g>
+</svg>

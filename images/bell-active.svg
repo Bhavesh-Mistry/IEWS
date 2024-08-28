@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/bell active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/bell-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bell" transform="translate(2.000000, 2.000000)" stroke="#FF7800" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4.97058824,1.14705882 C6.24509806,1.14705882 7.51960782,1.14705882 8.79411765,1.14705882 C10.3235294,1.14705882 11.3431372,0.637254899 11.8529412,-0.382352941 L11.8529412,11.8529412 C11.3431372,10.8333334 10.3235294,10.3235294 8.79411765,10.3235294 C7.51960782,10.3235294 6.24509806,10.3235294 4.97058824,10.3235294 C2.43657585,10.3235294 0.382352941,8.2693065 0.382352941,5.73529412 C0.382352941,3.20128174 2.43657585,1.14705882 4.97058824,1.14705882 Z" id="Path" transform="translate(6.117647, 5.735294) rotate(90.000000) translate(-6.117647, -5.735294) "></path>
+            <path d="M5.35294118,13.7647059 C6.19761197,13.7647059 6.88235294,13.0799649 6.88235294,12.2352941 C6.88235294,11.3906233 6.19761197,10.7058824 5.35294118,10.7058824" id="Path" transform="translate(6.117647, 12.235294) rotate(90.000000) translate(-6.117647, -12.235294) "></path>
+        </g>
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+    </g>
+</svg>
